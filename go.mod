@@ -22,7 +22,7 @@ require (
 	github.com/xtls/go v0.0.0-20230107031059-4610f88d00f3
 	github.com/xtls/reality v0.0.0-20230227192902-524506d97551
 	go.starlark.net v0.0.0-20230128213706-3f75dec8e403
-	golang.org/x/crypto v0.6.0
+	golang.org/x/crypto v0.7.0
 	golang.org/x/net v0.8.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.6.0
